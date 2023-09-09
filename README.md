@@ -1,6 +1,6 @@
 __KING-PRO__
 
-__PAID TOOLS__
+__FREE TOOLS__
 
 __FILE=RANDOM=GAMIL__
 
