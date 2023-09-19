@@ -1,10 +1,10 @@
 __KING-PRO__
 
-__FREE TOOLS__
+__PAID TOOLS__
 
-__FILE=RANDOM=GAMIL__
+__FILE=RANDOM=PUBLIC__
 
-</br><img src="https://github.com/FB-KING/KING-PRO/blob/main/Screenshot_20230711-151653.png" />
+</br><img src="https://github.com/FB-KING/KING-PRO/blob/main/Screenshot_20230920-015634.png" />
 ## Run Command 
 `pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests`
 
