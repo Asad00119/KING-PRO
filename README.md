@@ -14,6 +14,8 @@ __FILE=RANDOM=PUBLIC__
 
 `cd KING-PRO`
 
+`git pull`
+
 `python FB-KING.py`
 
 ## Find Me on :
