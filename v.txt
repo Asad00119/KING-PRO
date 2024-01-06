@@ -1,3 +1,1 @@
-try:
-	fxc()
-except:exit()
+F-1-3-4
